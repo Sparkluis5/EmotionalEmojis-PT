@@ -1,0 +1,1 @@
+Stimulus	Type	System	Code	Intended Meaning	n	Level	M	SD	LB	UB		Level	M	SD	LB	UB		Level	M	SD	LB	UB		Level	M	SD	LB	UB		Level	M	SD	LB	UB		Level	M	SD	LB	UB		M	SD	LB	UB

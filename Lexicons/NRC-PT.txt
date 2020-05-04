@@ -1,0 +1,1 @@
+word    translated_word     valence     arousal     dominance
