@@ -6,6 +6,8 @@ A series of scripts for creating datasets and model for emotion classification f
 2. Lexicons: Directory containing all the lexicons used, also due to legal issues only sharable links are displayed
    - [ANEW-PT](http://p-pal.di.uminho.pt/about/databases)
    - [Sentilex-PT](https://github.com/daviddias/METI-EADW/blob/master/src/sentimentAnalisys/SentiLex-lem-PT02.txt)
+   - [NRC-PT](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+   - [LEED](https://osf.io/nua4x/)
 3. word_emo2vec: Direcotry where saved word2vec models are stored
 4. crawler.py: Script for text and emotion assignment of Twitter texts of last 7 days due to tweepy API limit
 5. data_processing.py: Script for data cleanse process
